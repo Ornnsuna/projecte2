@@ -15,10 +15,11 @@
 
 .font-one {
   font-family: 'Ubuntu', sans-serif;
+  color: blue;
   Font-Size: 40px;
 }
 .font-two {
-  font-family: 'Alegreya Sans', serif;
+  font-family: 'Ubuntu', sans-serif;
   Font-Size: 20px;
 }
 button{
